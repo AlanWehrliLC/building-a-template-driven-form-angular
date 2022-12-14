@@ -1,27 +1,54 @@
-# BuildingATemplateDrivenFormAngular
+<p align="center">
+  <img src=".github/images/angular-logo.png" width="100px" />
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
+<h1 align="center">Building a template driven form angular</h1>
+<p align="center">Building a template-driven form. Done in one of the tutorials on the official Angular website. </p>
 
-## Development server
+<h3 align="center">
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+  <a href="./LICENSE" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/license%20-MIT-1C1E26?style=for-the-badge&labelColor=1C1E26&color=db534b">
+  </a>
 
-## Code scaffolding
+</h3>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<br />
 
-## Build
+<p align="center">
+    <img height="250rem" src="./.github/images/image1.png">
+    <img height="250rem" src="./.github/images/image2.png">
+    <img height="250rem" src="./.github/images/image3.png">
+</p>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<br />
 
-## Running unit tests
+# Techs
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+-  SCSS
+-  Angular
 
-## Running end-to-end tests
+## Installation of dependencies and local use
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+<br />
 
-## Further help
+>> ### [Documentation Angular](https://angular.io/guide/forms)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+<br />
+
+>Create somewhere on your pc, a folder to create a copy of the repository, inside it open command terminal and type the commands below:
+
+```
+git clone https://github.com/AlanWehrliLC/building-a-template-driven-form-angular.git
+
+cd building-a-template-driven-form-angular
+
+npm install
+
+npm run start
+```
+
+<br />
+
+> Test the app web
+>>#### [Building a template driven form angular](https://building-a-template-driven-form-angular.vercel.app/)
